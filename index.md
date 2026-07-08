@@ -15,8 +15,7 @@ that actually run, not just demos.
 
 [GitHub](https://github.com/prarabdhmisra) ·
 [Kaggle](https://www.kaggle.com/prarabdhmisra) ·
-[LinkedIn](https://www.linkedin.com/in/PLACEHOLDER) ·
-[Hugging Face](https://huggingface.co/PLACEHOLDER) ·
+[LinkedIn](https://www.linkedin.com/in/prarabdhmisra/) ·
 [Email](mailto:pmisra@snellingswalters.com)
 
 * * *
@@ -61,5 +60,5 @@ _Write-up: (link a blog post or repo)_
 - GitHub: [github.com/prarabdhmisra](https://github.com/prarabdhmisra)
 - Kaggle: [kaggle.com/prarabdhmisra](https://www.kaggle.com/prarabdhmisra)
 
-<!-- TODO: replace PLACEHOLDER LinkedIn/Hugging Face handles, add real project links,
-     drop your headshot at assets/profile.jpg, and edit any wording above. -->
+<!-- TODO: add real project links (LabBot HF Space + repo, Reachy write-up)
+     and edit any wording above. -->
