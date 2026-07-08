@@ -1,0 +1,14 @@
+# Site settings for GitHub Pages (Jekyll)
+# Theme: "Minimal" by orderedlist — the same theme the reference site uses.
+# To try a different look, change remote_theme (e.g. pages-themes/cayman@v0.2.0)
+# and push — GitHub rebuilds automatically.
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+title: Prarabdh Misra
+description: AI / ML builder — RAG systems, Kaggle competitions, robotics
+
+# Shown in the theme sidebar footer
+github:
+  is_project_page: false
