@@ -16,6 +16,7 @@ that actually run, not just demos.
 [GitHub](https://github.com/prarabdhmisra) ·
 [Kaggle](https://www.kaggle.com/prarabdhmisra) ·
 [LinkedIn](https://www.linkedin.com/in/prarabdhmisra/) ·
+[Hugging Face](https://huggingface.co/prarabdhmisra) ·
 [Email](mailto:pmisra@snellingswalters.com)
 
 * * *
@@ -38,7 +39,7 @@ A Gradio-based RAG chatbot that mirrors Prof. Zhao's research on Graph RAG (GRAG
 CG-RAG, and LLM cost reduction. Ingests a paper corpus and answers questions with
 citations. Built on Gradio + a retrieval pipeline with pluggable Gemini / Hugging Face
 backends.
-_Live demo: (link the Hugging Face Space once deployed)_ · _Code: (link the repo)_
+[Live demo on Hugging Face →](https://huggingface.co/spaces/prarabdhmisra/lab-assistant)
 
 ### Kaggle notebooks
 Competition and EDA notebooks — exploratory analysis plus LightGBM baselines and
@@ -60,5 +61,4 @@ _Write-up: (link a blog post or repo)_
 - GitHub: [github.com/prarabdhmisra](https://github.com/prarabdhmisra)
 - Kaggle: [kaggle.com/prarabdhmisra](https://www.kaggle.com/prarabdhmisra)
 
-<!-- TODO: add real project links (LabBot HF Space + repo, Reachy write-up)
-     and edit any wording above. -->
+<!-- TODO: optionally add the Reachy "HARVI" write-up/repo link and edit any wording above. -->
