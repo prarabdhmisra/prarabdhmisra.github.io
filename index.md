@@ -21,6 +21,18 @@ that actually run, not just demos.
 
 * * *
 
+## About
+
+Hey, I'm Prarabdh — a high schooler (Class of 2029) in Johns Creek, GA, and I'm really into
+AI, machine learning, and robotics. Right now I like building things end-to-end: I made a RAG
+research assistant on Gradio, I work on machine-learning notebooks on Kaggle, and I built a
+little conversational robot that switches backends on its own if one goes down. What I really
+want next is a research internship where I can work on applied ML or RAG systems with an actual
+research group. Any mentorship, feedback on my projects, or a lead on a lab looking for a
+motivated student would mean a lot.
+
+* * *
+
 ## Areas of Focus
 
 - **Retrieval-Augmented Generation** — grounding LLMs in domain corpora with graph- and
