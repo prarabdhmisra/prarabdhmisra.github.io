@@ -17,7 +17,7 @@ that actually run, not just demos.
 [Kaggle](https://www.kaggle.com/prarabdhmisra) ·
 [LinkedIn](https://www.linkedin.com/in/prarabdhmisra/) ·
 [Hugging Face](https://huggingface.co/prarabdhmisra) ·
-[Email](mailto:pmisra@snellingswalters.com)
+[Email](mailto:prarabdh.misra@gmail.com)
 
 * * *
 
@@ -57,7 +57,7 @@ _Write-up: (link a blog post or repo)_
 
 ## Get in touch
 
-- Email: [pmisra@snellingswalters.com](mailto:pmisra@snellingswalters.com)
+- Email: [prarabdh.misra@gmail.com](mailto:prarabdh.misra@gmail.com)
 - GitHub: [github.com/prarabdhmisra](https://github.com/prarabdhmisra)
 - Kaggle: [kaggle.com/prarabdhmisra](https://www.kaggle.com/prarabdhmisra)
 
