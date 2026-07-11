@@ -41,17 +41,21 @@ motivated student would mean a lot.
   reproducible notebook workflows.
 - **Conversational Robotics** — hands-free, resilient voice agents with automatic
   multi-backend failover.
+- **Edge ML / TinyML** — quantizing and deploying models onto microcontrollers and
+  single-board computers (ESP32 / Arduino, Raspberry Pi / Jetson).
 
 * * *
 
 ## Portfolio — Proof Points
 
-### LabBot — research-grounded RAG assistant
-A Gradio-based RAG chatbot that mirrors Prof. Zhao's research on Graph RAG (GRAG),
-CG-RAG, and LLM cost reduction. Ingests a paper corpus and answers questions with
-citations. Built on Gradio + a retrieval pipeline with pluggable Gemini / Hugging Face
-backends.
-[Live demo on Hugging Face →](https://huggingface.co/spaces/prarabdhmisra/lab-assistant)
+### Lab Assistant RAG — research-grounded, cited RAG assistant
+A Gradio RAG chatbot that answers questions over a research lab's publications **with inline
+citations**, expands results along a **citation graph**, and **routes cheap vs. expensive
+models** to save cost — with a grounding guard that declines unsupported questions.
+Provider-agnostic (Gemini / OpenAI / Anthropic / Hugging Face / Ollama), and open-sourced as a
+reusable template (MIT).
+[Code on GitHub →](https://github.com/prarabdhmisra/lab-assistant-rag) ·
+[Live demo on Hugging Face →](https://huggingface.co/spaces/prarabdhmisra/lab-assistant-rag)
 
 ### Kaggle notebooks
 Competition and EDA notebooks — exploratory analysis plus LightGBM baselines and
