@@ -7,7 +7,7 @@ title: Prarabdh Misra
 
 # Prarabdh Misra
 
-**AI / ML builder — retrieval-augmented systems, Kaggle competitions, and conversational robotics.**
+**AI / ML builder — retrieval-augmented systems, reproducibility research, and conversational robotics.**
 
 I build practical, end-to-end machine-learning systems: RAG assistants grounded in real
 research, competition-grade notebooks, and voice-driven robots. I care about shipping things
@@ -39,6 +39,8 @@ motivated student would mean a lot.
   cost-aware retrieval strategies.
 - **Applied ML & Kaggle** — feature engineering, gradient boosting (LightGBM), and
   reproducible notebook workflows.
+- **Reproducibility Research** — re-running published ML results claim by claim and
+  reporting verdicts with attached evidence, including falsifications.
 - **Conversational Robotics** — hands-free, resilient voice agents with automatic
   multi-backend failover.
 - **Edge ML / TinyML** — quantizing and deploying models onto microcontrollers and
@@ -68,6 +70,31 @@ dual-backend architecture that boots on Gemini (live voice + motion) and automat
 fails over to a Hugging Face / Qwen backend if the primary is unhealthy — so it keeps
 working without intervention.
 _Write-up: (link a blog post or repo)_
+
+* * *
+
+## Research & Competitions
+
+### Reproducing ICML 2026 — top 10% of the leaderboard
+Placed **30th out of ~350 participants (top ~9%)** in *Reproducing ICML 2026 · Open
+Reproductions* (Hugging Face × alphaXiv × Trackio, July 15 – August 2, 2026) — the largest open,
+claim-by-claim audit of a machine-learning conference to date. I earned **173 leaderboard points
+across 17 judged logbooks**, independently confirmed by the competition's automated Logbook Judge,
+with **eight logbooks scoring a perfect 12/12**.
+
+Each logbook re-runs a published ICML 2026 paper claim by claim and reports a verdict —
+reproduced, reproduced at toy scale, inconclusive, or falsified — with the evidence attached.
+Highlights include a human-in-the-loop reproduction and an independent **falsification** of a
+published claim, both backed by runnable code and logged metrics.
+
+[Browse my logbooks on Hugging Face &rarr;](https://huggingface.co/prarabdhmisra) &middot;
+[Example: a falsified claim, with evidence &rarr;](https://huggingface.co/spaces/prarabdhmisra/Vv4XRZDMM0)
+
+<a href="assets/icml-2026-repro-certificate.png">
+  <img src="assets/icml-2026-repro-certificate.png"
+       alt="Certificate of Participation - Reproducing ICML 2026 Open Reproductions, presented to Prarabdh Misra for 173 leaderboard points across 17 judged logbooks"
+       style="max-width:100%; height:auto; border:1px solid #e0e0e0; border-radius:6px; margin-top:1.5em;" />
+</a>
 
 * * *
 
