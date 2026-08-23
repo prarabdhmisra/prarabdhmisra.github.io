@@ -69,7 +69,9 @@ A hands-free voice robot built on the Reachy Mini platform. Talks in English wit
 dual-backend architecture that boots on Gemini (live voice + motion) and automatically
 fails over to a Hugging Face / Qwen backend if the primary is unhealthy — so it keeps
 working without intervention.
-_Write-up: (link a blog post or repo)_
+Built during an internship at **[Snellings Walters Insurance Agency](https://snellingswalters.com/)**
+in Atlanta, where I deployed it as a **receptionist robot** — it holds a conversation with
+guests, answers questions about the company, and directs them to the right team.
 
 * * *
 
@@ -103,5 +105,3 @@ published claim, both backed by runnable code and logged metrics.
 - Email: [prarabdh.misra@gmail.com](mailto:prarabdh.misra@gmail.com)
 - GitHub: [github.com/prarabdhmisra](https://github.com/prarabdhmisra)
 - Kaggle: [kaggle.com/prarabdhmisra](https://www.kaggle.com/prarabdhmisra)
-
-<!-- TODO: optionally add the Reachy "HARVI" write-up/repo link and edit any wording above. -->
