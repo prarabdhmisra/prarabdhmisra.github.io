@@ -75,6 +75,25 @@ guests, answers questions about the company, and directs them to the right team.
 
 * * *
 
+## Publications
+
+### Workshop papers — NeurIPS 2026
+**Prarabdh Misra**, Mohd Ariful Haque.
+*Where Edge VLA Latency Actually Goes: Measured Scaling Laws and Staleness Admissibility for a
+450M Vision–Language–Action Model.* 2026.
+
+- **Accepted (poster)** — NeurIPS 2026 Workshop on *On-Device Intelligence: Foundation Models
+  under Real-World Constraints*, Sydney, December 2026.
+- **Accepted** — NeurIPS 2026 Workshop on *Resource-Aware Agentic AI*, Atlanta, December 2026.
+
+Measures where inference time actually goes when a 450M-parameter vision–language–action model
+runs on edge hardware (NVIDIA T4 and Jetson AGX Orin). The action expert, not the vision encoder,
+takes most of the budget. Caching vision across frames also costs more action accuracy than INT8
+quantization does.
+[Interactive benchmark on Hugging Face &rarr;](https://huggingface.co/spaces/prarabdhmisra/edgevla-bench)
+
+* * *
+
 ## Research & Competitions
 
 ### Reproducing ICML 2026 — top 10% of the leaderboard
